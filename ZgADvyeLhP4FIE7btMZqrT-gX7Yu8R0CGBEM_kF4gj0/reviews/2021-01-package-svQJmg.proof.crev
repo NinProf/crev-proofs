@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-01-27T13:24:15.033136100+01:00"
+from:
+  id-type: crev
+  id: ZgADvyeLhP4FIE7btMZqrT-gX7Yu8R0CGBEM_kF4gj0
+  url: "https://github.com/NinProf/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: remove_dir_all
+  version: 0.5.3
+  revision: 0c218dad77262fbf47483d128feebb2770a8c05e
+  digest: ltL2xkeGeGdvI4bRC3Zf47MxRRRpS83d4GERoSl4544
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+ip9eLFdF4zNMxZGjclwi0GHGrLxIgjNM81vP5hVs1toSi5H0rYcyyIrrg9uKLzd8hYizLdmCvT3KwxrQjABKBw
+----- END CREV PROOF -----
+

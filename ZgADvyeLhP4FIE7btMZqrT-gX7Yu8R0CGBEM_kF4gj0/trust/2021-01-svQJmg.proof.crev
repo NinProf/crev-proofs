@@ -51,3 +51,20 @@ trust: medium
 ruPiIRRVHpUjHFOVOITq988uXTrJFV6a95XkYyNIDvd0LfgNv2HEoZk_y8MN_Th2vwdPMLCpw9Hpi2zReTJuBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-01-27T13:39:15.097880600+01:00"
+from:
+  id-type: crev
+  id: ZgADvyeLhP4FIE7btMZqrT-gX7Yu8R0CGBEM_kF4gj0
+  url: "https://github.com/NinProf/crev-proofs"
+ids:
+  - id-type: crev
+    id: aD4K0g6AcSKUDp3VPF7u4hM94zEkqjWeRQwmabLBcV0
+    url: "https://github.com/Mark-Simulacrum/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+ecQuiEB4a3G-4mItG2Ukmnw0kFiByFD_kk5-oYz7SQmpd8tiZb7mAmfebQBiIBSC9aobMcLZkoI6WyxM_T7ABA
+----- END CREV PROOF -----
+

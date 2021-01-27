@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-01-27T13:04:40.867112+01:00"
+from:
+  id-type: crev
+  id: ZgADvyeLhP4FIE7btMZqrT-gX7Yu8R0CGBEM_kF4gj0
+  url: "https://github.com/NinProf/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Author of crev, should be trustworthy
+----- SIGN CREV PROOF -----
+0ktnQ5ZZuiU1Bm9KQLR5f9ss6y2RMUWkA4pCbDYEw6EKR0cgrHZ0XpbEKg9NRkQy4L-xqLgHIsze8lGRIlVHCw
+----- END CREV PROOF -----
+
